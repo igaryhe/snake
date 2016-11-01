@@ -1,0 +1,31 @@
+.tile {
+  width: 10px;
+  height: 10px;
+  background-color: #fff;
+  display: inline-block;
+}
+
+.row {
+  height: 10px;
+  width: 110px;
+}
+
+[id^="1-"] {
+  border-top-style: solid;
+  border-top-width: 3px;
+}
+
+[id^="10-"] {
+  border-bottom-style: solid;
+  border-bottom-width: 3px;
+}
+
+[id$="-1"] {
+  border-left-style: solid;
+  border-left-width: 3px;
+}
+
+[id$="-10"] {
+  border-right-style: solid;
+  border-right-width: 3px;
+}

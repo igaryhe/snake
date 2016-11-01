@@ -1,0 +1,8 @@
+{
+  "name": "Snake",
+  "version": "0.0.1",
+  "author": "igaryhe",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}

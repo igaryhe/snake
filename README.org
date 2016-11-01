@@ -1,0 +1,7 @@
+* THIS IS A FREAKING SNAKE GAME
+** Install
+#+BEGIN_SRC shell
+npm install
+#+END_SRC
+
+And run whatever HTTP server you like in the snake directory.
